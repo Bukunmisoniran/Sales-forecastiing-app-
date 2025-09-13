@@ -1,6 +1,7 @@
 # 📈 Sales Forecasting App (Streamlit + Prophet)
 
 A simple, interactive web app that forecasts retail sales using historical data and Facebook Prophet. Built as a portfolio-ready project to demonstrate time-series forecasting, business thinking, and deployment skills.
+![Project Overview](over.jpg)
 
 ---
 
